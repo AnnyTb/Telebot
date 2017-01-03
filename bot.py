@@ -12,7 +12,7 @@ URL_VK = 'https://api.vk.com/method/wall.get?domain=vanila_inogda&count=10&filte
 FILENAME_VK = 'last_known_id.txt'
 BASE_POST_URL = 'https://vk.com/wall-27663995_'
 
-BOT_TOKEN = '318080027:AAHln3O95iMydZSm3hydJjowO0Ye6-wJu1M'
+BOT_TOKEN = 'token'
 CHANNEL_NAME = '@FAKI_MIPT'
 
 # Если True, предполагается использование cron для запуска скрипта
